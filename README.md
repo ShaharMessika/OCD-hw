@@ -1,2 +1,2 @@
 # OCD-hw
-OCD with ConvMixer, HW attemps.
+OCD with ConvMixer, homework.
